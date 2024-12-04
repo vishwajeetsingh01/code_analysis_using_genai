@@ -25,7 +25,7 @@ Understanding a new codebase can be daunting. This chatbot applicaion simplifies
 - Natural Langauage Processing (for chatbot functionality)
 - Langchain
 
-# How to run?
+## How to run?
 
 ### STEP 01 - Create a Virtual envirnment
 
