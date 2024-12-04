@@ -61,7 +61,9 @@ Now,
 open up localhost: 
 ```bash / CMD 
 http://127.0.0.1:8080
+```
 or 
+```bash / CMD 
 http://192.168.1.7:8080
 ```
 
