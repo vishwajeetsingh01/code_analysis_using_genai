@@ -70,7 +70,7 @@ def load_embedding_model():
 def get_prompt():
     logger.info("Getting the prompt for LLM model.........")
     try:
-        prompt_template = """You are an powerful assistantfor question-answering tasks You have to tell the Usr.
+        prompt_template = """You are an powerful assistant for question-answering tasks You have to tell the User.
         Use the following context to answer the question.
         If you don't know the answer, just say that you don't know.
         Use five sentences maximum and keep the answer concise.\n
