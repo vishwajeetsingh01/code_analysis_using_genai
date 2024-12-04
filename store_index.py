@@ -1,7 +1,7 @@
 from dotenv import load_dotenv
 import os
 
-from langchain.vectorstores import chroma
+from langchain.vectorstores import Chroma
 
 from src import helper
 from src import constants
