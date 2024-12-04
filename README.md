@@ -51,7 +51,7 @@ pip install -r requirements.txt
 GEMINI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
-# Finally run the following command
+### Finally run the following command
 
 ```bash / CMD
 python app.py
