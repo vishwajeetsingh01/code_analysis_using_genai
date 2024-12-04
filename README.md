@@ -57,8 +57,7 @@ GEMINI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 python app.py
 ```
 
-Now,
-open up localhost: 
+Now, open up localhost: 
 ```bash / CMD 
 http://127.0.0.1:8080
 ```
