@@ -4,8 +4,8 @@ import sys
 from datetime import datetime
 
 LOG_FILE = "running_logs.log"
-LOG_PATH = os.path.join(os.gatcwd(), "logs")
-os.makedires(LOG_PATH, exist_ok=True)
+LOG_PATH = os.path.join(os.getcwd(), "logs")
+os.makedirs(LOG_PATH, exist_ok=True)
 
 LOG_FILE_PATH = os.path.join(LOG_PATH, LOG_FILE)
 

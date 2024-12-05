@@ -1,0 +1,14 @@
+[ 2024-12-05 09:46:59,226 ] 67 Helper : INFO - Entering into load_embedding_model.......
+[ 2024-12-05 09:47:03,895 ] 22 chromadb.telemetry.product.posthog : INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[ 2024-12-05 09:47:06,491 ] 71 Helper : INFO - Getting the prompt for LLM model.........
+[ 2024-12-05 09:47:06,569 ] 97 werkzeug : INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.16.2.0:8080
+[ 2024-12-05 09:47:06,570 ] 97 werkzeug : INFO - [33mPress CTRL+C to quit[0m
+[ 2024-12-05 09:47:06,573 ] 97 werkzeug : INFO -  * Restarting with stat
+[ 2024-12-05 09:47:10,512 ] 67 Helper : INFO - Entering into load_embedding_model.......
+[ 2024-12-05 09:47:12,949 ] 22 chromadb.telemetry.product.posthog : INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[ 2024-12-05 09:47:14,868 ] 71 Helper : INFO - Getting the prompt for LLM model.........
+[ 2024-12-05 09:47:14,885 ] 97 werkzeug : WARNING -  * Debugger is active!
+[ 2024-12-05 09:47:14,889 ] 97 werkzeug : INFO -  * Debugger PIN: 356-575-629
